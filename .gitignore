@@ -1,0 +1,46 @@
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Flutter/Dart specific files
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/build/
+.packages
+.pub/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/test/
+
+# Miscellaneous
+.DS_Store
+*.lock
+*.log
+*.swp
+*.out
+*.orig
+
+# iOS specific
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/Flutter/ephemeral/
+
+# Android specific
+android/.gradle/
+android/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/app/build/
