@@ -34,3 +34,4 @@ Note: If you plan to distribute your own version of the app built with this code
 By following these steps, you'll be able to collect your API key from OpenWeatherMap and set it up in the PRAS Weather App project. If you encounter any issues or have questions, feel free to reach out for assistance.
 
 Happy coding!
+

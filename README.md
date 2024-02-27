@@ -14,7 +14,7 @@ The PRAS Weather App is a Flutter-based mobile application designed to provide u
 
 ## Screenshots
 
-![Preview](screenshots/screenshot1.png)
+![Preview](https://github.com/PRASSamin/PRAS-Weather-App/blob/main/preview/pras-weather.jpg?raw=true)
 
 
 ## Installation
